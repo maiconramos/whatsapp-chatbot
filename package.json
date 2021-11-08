@@ -130,6 +130,7 @@
     "qrcode-terminal": "^0.12.0",
     "require.js": "^1.0.0",
     "sanitize-filename": "^1.6.3",
+    "require.js": "^1.0.0",
     "sharp": "^0.29.1",
     "socket.io": "^4.3.2",
     "spinnies": "^0.5.1",
