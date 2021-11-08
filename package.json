@@ -123,7 +123,7 @@
     "http": "0.0.1-security",
     "latest-version": "^5.1.0",
     "mime-types": "^2.1.33",
-    "ora": "^5.4.1",
+    "ora": "^6.0.1",
     "puppeteer": "^5.5.0",
     "puppeteer-extra": "^3.1.18",
     "puppeteer-extra-plugin-stealth": "^2.9.0",
