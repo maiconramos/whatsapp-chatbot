@@ -81,7 +81,7 @@ io.on('connection', (socket) => {
 });
 
 venom
-    .create({ headless: false })
+    .create({ headless: true })
     .then((client) => start(client))
     .catch((erro) => {
         console.log(erro);
